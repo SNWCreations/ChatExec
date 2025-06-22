@@ -5,7 +5,7 @@ public Plugin myinfo =
     name = "Chat Exec",
     author = "SNWCreations",
     description = "Executes .cfg files through chat commands",
-    version = "1.0",
+    version = "1.0.1",
     url = "https://github.com/SNWCreations/ChatExec"
 };
 
